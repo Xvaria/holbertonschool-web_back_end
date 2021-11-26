@@ -1,1 +1,1 @@
-Ready | i18n
+Hello i18n
